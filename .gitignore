@@ -1,0 +1,4 @@
+.makefun/transcripts/
+.makefun/recording-*.log
+.makefun/recording-*.pid
+.makefun/*.tar.gz
